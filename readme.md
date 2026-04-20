@@ -1,4 +1,4 @@
-# AI Skills Collection (灵码技能库)
+# AI Skills Collection 
 
 本项目是一个模块化的 AI 智能体技能（Skills）收集仓库。旨在为 AI 助手（如阿里云灵码 Lingma）提供垂直领域的专业知识、标准化工作流及自动化工具脚本，从而增强其在特定任务下的执行能力与准确性。
 
